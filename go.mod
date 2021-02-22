@@ -1,3 +1,3 @@
-module github.com/SummerLius/liusmod
+module github.com/summerlius/liusmod
 
 go 1.15
